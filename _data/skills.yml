@@ -1,12 +1,8 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+# Web programming
+- skill: Web programming language and some frameworks or libraries
+  description: Javascript, HTML5, CSS3, NodeJs, ReactJs, Angular, VueJs
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
-
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+# Tools for help in remote work
+- skill: Experience working remotely
+  description: I have worked on home-office about 2 years, developing software and working in remote teams
